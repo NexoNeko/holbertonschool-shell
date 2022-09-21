@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nu *.hmtl ..
+cp -n *.hmtl ..
