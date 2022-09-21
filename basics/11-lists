@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -af /holbertonschool-shell/basics/ .. /bootls -af /holbertonschool-shell/basics/ .. /boot
