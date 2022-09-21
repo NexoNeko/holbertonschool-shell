@@ -1,1 +1,0 @@
-The command 0 will print your current working directory.
