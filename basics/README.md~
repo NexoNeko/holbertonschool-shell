@@ -1,0 +1,1 @@
+In this repository we will explore the shell commands.
