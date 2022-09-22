@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "\n" >> iacta | tail -1 iacta >> iacta
+printf "\n" >> iacta | tail -2iacta >> iacta
