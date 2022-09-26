@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c2- --complement | fmt -u | tr -d '\n' | tr -d ' '
+cut -c2- --complement | fmt -u | tr -d '\n' | tr -d ' ' | paste -d '\n'
