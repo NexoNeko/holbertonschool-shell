@@ -1,0 +1,2 @@
+#!/bin/bash
+i=$((i+1)) | echo $i
