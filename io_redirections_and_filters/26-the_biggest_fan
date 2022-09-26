@@ -1,2 +1,2 @@
 #!/bin/bash
-cat testfile.tsv | sort | cut -f1 | uniq -c | sort -k1 -r | head -11
+cat | sort | cut -f1 | uniq -c | sort -k1 -r | head -11 | cut -d' ' -f8
