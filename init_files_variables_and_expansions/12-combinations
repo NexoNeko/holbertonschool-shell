@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..n}{a..z},o{a..n},o{p..z},{p..z}{a..z}
+echo {a..z}{a..z} | tr -d"oo"
