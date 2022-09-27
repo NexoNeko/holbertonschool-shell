@@ -1,0 +1,2 @@
+$!/bin/bash
+cat -n | cut -d$'\n' -f$((0+$(echo $COUNTER+2)))-
