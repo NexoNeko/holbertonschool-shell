@@ -1,2 +1,0 @@
-$!/bin/bash
-cut -d$'\n' -f$((0+$(echo $COUNTER+2)))-
