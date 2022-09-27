@@ -1,2 +1,2 @@
 $!/bin/bash
-cat -n | cut -d$'\n' -f$((0+$(echo $COUNTER+2)))-
+cat -n | cut -b 6- | grep ^[13579] | cut -f2
