@@ -1,1 +1,1 @@
-Thisi s the readme file for this thing
+This folder contains exercises dealing with linux permissions.
