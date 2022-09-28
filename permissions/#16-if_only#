@@ -1,7 +1,0 @@
-#!/bin/bash
-chown --from=guillaume:julien case  in
-*)
-
-esac
-
-vincent hello
