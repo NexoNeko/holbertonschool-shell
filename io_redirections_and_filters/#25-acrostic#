@@ -1,2 +1,0 @@
-#!/bin/bash
-cut -c2- --complement | fmt -u | tr -d ' '
