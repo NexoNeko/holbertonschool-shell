@@ -1,1 +1,3 @@
-In this repository we will explore the shell commands.
+# Holbertonschool shell
+
+Exercises introducing shell scripting
