@@ -1,3 +1,3 @@
 # Holbertonschool shell
 
-Exercises introducing shell scripting
+This repository contains solutions to the shell scripting projects I did at the Holberton Campus.
