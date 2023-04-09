@@ -1,1 +1,3 @@
-The command 0 will print your current working directory.
+# Basics
+
+Basic introduction to shell scripting
